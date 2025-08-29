@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rapido Fuel Calculator",
+  "description": "A modern, offline-first fuel cost calculator built with React and TypeScript, featuring a Material Design 3 interface. It helps users calculate fuel expenses, consumption, and travel range with real-time updates and scenario analysis.",
+  "requestFramePermissions": []
+}
