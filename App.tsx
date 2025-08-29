@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
-import { TopAppBar } from './components/TopAppBar';
+import { TopAppBar } from './TopAppBar';
 import { InputCard } from './components/InputCard';
 import { ResultsCard } from './components/ResultsCard';
 import { ScenarioTable } from './components/ScenarioTable';
